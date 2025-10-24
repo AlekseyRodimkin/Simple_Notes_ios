@@ -16,7 +16,7 @@
 <img src="https://github.com/AlekseyRodimkin/Simple_Notes_ios/blob/main/Readme_images/changed.png" style="width:30%;">
 
 ### Поиск заметок
-<img src="https://github.com/AlekseyRodimkin/Simple_Notes_ios/blob/main/Readme_images/search.png" style="width:30%;">
+<img src="https://github.com/AlekseyRodimkin/Simple_Notes_ios/blob/main/Readme_images/search_rabbit.png" style="width:30%;">
 
 ### Удаляем заметку свайпом
 <img src="https://github.com/AlekseyRodimkin/Simple_Notes_ios/blob/main/Readme_images/swipe.png" style="width:30%;">
